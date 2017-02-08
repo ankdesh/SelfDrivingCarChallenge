@@ -1,2 +1,2 @@
 # SelfDrivingCarChallenge
-Repo for codes for Self driving car challenges at Udacity
+Repo for codes for solving Self driving car challenges using deep learning 
